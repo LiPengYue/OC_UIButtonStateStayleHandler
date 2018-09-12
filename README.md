@@ -4,7 +4,7 @@
 
 ![normal](https://upload-images.jianshu.io/upload_images/4185621-7084e6d90e41a46a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-[下载 demo点这里 希望对你有点帮助👌👌](https://github.com/LiPengYue/OC_UIButtonStateStayleHandler/new/master?readme=1)
+[下载 demo点这里 希望对你有点帮助👌👌](https://github.com/LiPengYue/OC_UIButtonStateStayleHandler)
 # 调用
 ```
 UIButton *button = [UIButton new];
@@ -445,4 +445,4 @@ static NSString *const k_cornerRadiusDictionaryM = @"k_cornerRadiusDictionaryM";
 ```
 
 
-[下载 demo点这里 希望对你有点帮助👌👌](https://github.com/LiPengYue/OC_UIButtonStateStayleHandler/new/master?readme=1)
+[下载 demo点这里 希望对你有点帮助👌👌](https://github.com/LiPengYue/OC_UIButtonStateStayleHandler)
